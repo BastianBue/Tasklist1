@@ -1,0 +1,14 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    data class Comment(val id: Int, val body: String, val author: String)
+
+    fun printComments(commentsData: MutableList<Comment>){
+        // write you code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9054#comment
+status: Solved
+record: -1
